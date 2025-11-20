@@ -1,5 +1,5 @@
 # SigmaX - Advanced Lua Integration Environment
-#PASS:ROBLOX
+PASS:ROBLOX
 
 A powerful and lightweight scripting environment for Roblox that enables advanced gameplay customization and automation.
 
